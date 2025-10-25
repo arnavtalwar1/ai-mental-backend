@@ -12,3 +12,19 @@ This is the backend API for the AI Mental Health Companion project.
 pip install -r requirements.txt
 python app.py
 
+
+---
+
+### 3️⃣ Add installation instructions (optional but good)
+In each repo, make sure you have:
+- **Backend:** a `requirements.txt` file with your Python dependencies.
+- **Frontend:** a `package.json` (it’s already there if it’s a React project).
+
+Anyone can then clone and run:
+```bash
+# backend
+pip install -r requirements.txt
+
+# frontend
+npm install
+npm start
